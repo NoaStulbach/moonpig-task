@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid #ffb6c1;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.card-price {
+  font-size: 16px;
+  color: #ff6f91;
+  margin-top: 8px;
+}

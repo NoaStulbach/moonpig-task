@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: #ffe6f0;
+  color: #333;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #ffb6c1;
+  border: none;
+  border-radius: 4px;
+  color: white;
+}
+
+button:hover {
+  background-color: #ff9bb1;
+}
